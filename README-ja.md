@@ -1,3 +1,6 @@
+
+
+
 # gamepad4scratch  ゲームパッド フォー スクラッチ
 このプロジェクトは、USB接続のゲームパッドあるいはジョイスティックを（主にRaspberry Piの）Scratch 1.4で使えるようにするものです。Python / pygameがゲームパッドとScratchの間にいて、情報の伝達を行ないます。
 
